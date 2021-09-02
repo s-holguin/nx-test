@@ -1,0 +1,6 @@
+version: '3.8'
+services:
+  info-all:
+    image: info-all
+    ports:
+      - '3000:3000'
