@@ -12,7 +12,7 @@
           "options": {
             "root": "apps/info-all",
             "outputPath": "dist/apps/info-all",
-            "generatePackageJson": true
+            "generatePackageJson": false
           },
           "configurations": {
             "production": {}
